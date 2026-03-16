@@ -1,43 +1,5 @@
 {
   "channels": [
-    {
-      "Developer": "Sula ❤️❤️",
-      "Owner": "Nn9yMFzC",
-      "channelname": "ₛₜᵢCₖₑᵣ ᵥᵢBₑₛ  || 🍄🩷",
-      "jid": "120363345737969947@newsletter",
-      "invite": "0029VarfWzgBFLgVmMbybQ0j",
-      "forwardTo": "120363405459268369@newsletter",
-      "react": ".chnrl",
-      "emoji": "🌝,🥹,😩,😚,💗,🪄,🎀,🍭,🍓,✨",
-      "Date": "2026-03-09",
-      "expireAt": "2026-04-09T04:52:52.658Z",
-      "deleteDelay": "4000"
-    },
-    {
-      "Developer": "Sula ❤️❤️",
-      "Owner": "Nn9yMFzC",
-      "channelname": "NeoGen SriLanka 🇱🇰",
-      "jid": "120363408235045153@newsletter",
-      "invite": "0029VbByxUdBqbrGaPJdcZ0O",
-      "forwardTo": "120363405459268369@newsletter",
-      "react": ".chnrl",
-      "emoji": "❤️,💯,🇱🇰,🥰,💚,🩵,😎",
-      "Date": "2026-03-11",
-      "expireAt": "2026-04-11T04:52:52.658Z",
-      "deleteDelay": "4000"
-    },
-    {
-      "Developer": "Sula ❤️❤️",
-      "Owner": "Nn9yMFzC",
-      "channelname": "𝗭𝗢𝗡𝗘 𝗦𝗞𝗜𝗡 𝗣𝗟𝗔𝗡𝗘𝗧 #1 📃",
-      "jid": "120363423349248844@newsletter",
-      "invite": "0029VbCdKMNAO7RJoz0uiI3S",
-      "forwardTo": "120363405459268369@newsletter",
-      "react": ".chnrl",
-      "emoji": "😁,🤍,❤️,🖤,🌝,😘,🥰,😍,🥺",
-      "Date": "2026-03-12",
-      "expireAt": "2026-04-12T04:52:52.658Z",
-      "deleteDelay": "4000"
-    }
+    
   ]
 }
